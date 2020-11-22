@@ -33,7 +33,7 @@ public class Main {
          */
 
         // s_sorter = new BubbleSort<>();
-//         s_sorter = new MergeSort<>();
+        // s_sorter = new MergeSort<>();
         s_sorter = new QuickSort<>();
     }
 
@@ -83,7 +83,7 @@ public class Main {
             String line;
             while ((line = r.readLine()) != null) {
                 table.addLine(line);
-                System.out.println("\t" + line.trim());
+//                System.out.println("\t" + line.trim());
             }
 
             ConcordanceDataPair[] alphabetical = table.toArray(); // get an array of words/occurrences sorted in alphabetical order
