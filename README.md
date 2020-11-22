@@ -1,3 +1,5 @@
+<h1>Concordance Table<th1>
+
 This project demonstrates a basic Binary Tree and sorting algorithms (bubble sort, merge sort, and quick sort)
 
 The main method takes in an array of strings representing absolute paths to .txt files. The main method creates a binary tree of words in the document. The tree holds the unique words in alphabetical order with a number of occurrences for each word.
