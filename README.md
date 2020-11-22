@@ -1,4 +1,4 @@
-<h1>Concordance Table<th1>
+<h1>Concordance Table</h1>
 
 This project demonstrates a basic Binary Tree and sorting algorithms (bubble sort, merge sort, and quick sort)
 
